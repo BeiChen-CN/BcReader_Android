@@ -5,7 +5,7 @@ https://mastergo.com/goto/KWzbQtxB?file=165290124574010
 
 ### BcReaderVela客户端  
 
-https://github.com/youshen2/com.bandbbs.ebook
+https://github.com/BeiChen-CN/BcReader
 
 </br></br>
 
